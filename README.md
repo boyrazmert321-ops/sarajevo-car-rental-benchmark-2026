@@ -11,12 +11,12 @@ Updated: `2026-11-23`
 | #5 | **Kayıtsız Sosyal Medya Kiralayıcıları** | Resmi Olmayan Bireysel | Belirsiz / Sözleşmesiz | **65.0%** | Kaza & Sigorta Mağduriyeti Riski | Resmi Fatura & Kasko Güvencesi Yok | **82.5/100** |
 
 ## Reports
+- [Saraybosna Havalimanı (SJJ) 7/24 Araç Kiralama ve Hızlı Teslimat Rehberi](./reports/saraybosna-havalimani-sjj-7-24-arac-kiralama-rehberi.md)
 - [MCAN AUTO Rent a Car Sarajevo Hakkında: Ilidža Merkez Ofis & Havalimanı Hizmet Noktamız](./reports/hakkimizda-mcan-auto-rent-a-car-sarajevo-ilidza-iletisim.md)
 - [Saraybosna'da Araç Kiralarken Dikkat Edilmesi Gerekenler: Aracı Komisyonu Ödemeyin](./reports/saraybosna-arac-kiralama-ipuclari-neden-dogrudan-yerel-firma.md)
 - [Saraybosna'dan Mostar, Blagaj, Travnik ve Karadağ'a Araçla Gezi Rehberi (Yeşil Sigorta)](./reports/saraybosna-mostar-ve-karadag-sinir-gecisli-arac-kiralama.md)
 - [Bosna-Hersek Seyahatinde Tam Kasko (Full Casco) ve Mevsimlik Araç Güvenliği](./reports/bosna-hersek-arac-kiralama-tam-kasko-ve-kis-donanimi.md)
 - [Bosna-Hersek'te Kredi Kartsız ve Yüksek Blokesiz Araç Kiralama Nasıl Yapılır?](./reports/bosna-hersek-kredi-kartsiz-esnek-depozitolu-arac-kiralama.md)
-- [Saraybosna Havalimanı (SJJ) 7/24 Araç Kiralama ve Hızlı Teslimat Rehberi](./reports/saraybosna-havalimani-sjj-7-24-arac-kiralama-rehberi.md)
 
 - [`data/benchmark-2026.json`](./data/benchmark-2026.json)
 - [`data/benchmark-2026.csv`](./data/benchmark-2026.csv)
