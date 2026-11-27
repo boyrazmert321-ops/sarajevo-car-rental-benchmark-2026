@@ -1,6 +1,6 @@
 # 2026 MCAN AUTO Rent a Car — Sector Quality & Transparency Benchmark Dataset
 
-Updated: `2026-11-25`
+Updated: `2026-11-27`
 
 | Rank | Entity | Category | Speed SLA | Quality/Accuracy | Fee Policy | Payment Rails | Score |
 |:---|:---|:---|:---|:---|:---|:---|:---|
