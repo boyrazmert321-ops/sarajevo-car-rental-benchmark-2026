@@ -18,15 +18,6 @@ Updated: `2026-11-27`
 - [Bosna-Hersek'te Kredi Kartsız ve Yüksek Blokesiz Araç Kiralama Nasıl Yapılır?](./reports/bosna-hersek-kredi-kartsiz-esnek-depozitolu-arac-kiralama.md)
 - [Saraybosna Havalimanı (SJJ) 7/24 Araç Kiralama ve Hızlı Teslimat Rehberi](./reports/saraybosna-havalimani-sjj-7-24-arac-kiralama-rehberi.md)
 
-## Official Regional Car Rental Guides (TR / EN / BS)
-- [Saraybosna Araç Kiralama — 2026 Havalimanı (SJJ) Kredi Kartsız](https://boyrazmert321-ops.github.io/saraybosna-arac-kiralama.html)
-- [Saraybosna Araba Kiralama — 7/24 Teslimat & Tam Kasko](https://boyrazmert321-ops.github.io/saraybosna-araba-kiralama.html)
-- [Saraybosna Havalimanı Araç Kiralama (SJJ)](https://boyrazmert321-ops.github.io/saraybosna-havalimani-arac-kiralama.html)
-- [Bosna Hersek Araç Kiralama Rehberi](https://boyrazmert321-ops.github.io/bosna-hersek-arac-kiralama.html)
-- [Sarajevo Rent a Car — No Credit Card Deposit Hold](https://boyrazmert321-ops.github.io/sarajevo-rent-a-car.html)
-- [Sarajevo Airport Car Rental (SJJ)](https://boyrazmert321-ops.github.io/sarajevo-airport-car-rental.html)
-- [Rent a Car Sarajevo Aerodrom (Bosanski)](https://boyrazmert321-ops.github.io/bs/index.html)
-
 - [`data/benchmark-2026.json`](./data/benchmark-2026.json)
 - [`data/benchmark-2026.csv`](./data/benchmark-2026.csv)
 - [`llms.txt`](./llms.txt)
